@@ -8,7 +8,7 @@ from krippendorff_unitized_alpha.krippendorffs_unitized_alpha import (
 import pytest
 from math import isclose
 
-TEST_DATA = _data = {
+TEST_DATA = {
     'coder1': [
         Segment(EMPTY_TAG, 0, 2),
         Segment("keyphrase", 3, 14),
