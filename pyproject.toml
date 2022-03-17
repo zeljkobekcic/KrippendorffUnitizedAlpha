@@ -1,8 +1,13 @@
 [tool.poetry]
 name = "krippendorff_unitized_alpha"
 version = "0.1.0"
-description = ""
+description = "Computing Unitized Krippendorff Alpha (according to https://link.springer.com/article/10.1007/s11135-015-0266-1)"
 authors = ["Zeljko Bekcic <zeljko.bekcic@posteo.net>"]
+homepage = "https://github.com/zeljkobekcic/KrippendorffUnitizedAlpha"
+repository = "https://github.com/zeljkobekcic/KrippendorffUnitizedAlpha"
+documentation = "https://github.com/zeljkobekcic/KrippendorffUnitizedAlpha"
+keywords = ["krippendorff", "unitized", "alpha", "annotator", "agreement"]
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
