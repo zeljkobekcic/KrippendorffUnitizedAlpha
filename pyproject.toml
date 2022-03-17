@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "krippendorffunitizedalpha"
+name = "krippendorff_unitized_alpha"
 version = "0.1.0"
 description = ""
 authors = ["Zeljko Bekcic <zeljko.bekcic@posteo.net>"]
