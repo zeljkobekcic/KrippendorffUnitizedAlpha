@@ -30,6 +30,7 @@ data = {
 }
 
 kua = KrippendorffUnitizedAlpha(data)
+print(kua.result)
 # >>> 0.5671992508994135
 ```
 
@@ -60,6 +61,7 @@ kua = KrippendorffUnitizedAlpha(
         for annotator, annotations in data_without_empty_segments.items()
     }
 )
+print(kua.result)
 # >>> 0.5671992508994135
 ```
 
