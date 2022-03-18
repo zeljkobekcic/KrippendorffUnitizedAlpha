@@ -8,6 +8,7 @@ repository = "https://github.com/zeljkobekcic/KrippendorffUnitizedAlpha"
 documentation = "https://github.com/zeljkobekcic/KrippendorffUnitizedAlpha"
 keywords = ["krippendorff", "unitized", "alpha", "annotator", "agreement"]
 readme = "README.md"
+license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.10"
